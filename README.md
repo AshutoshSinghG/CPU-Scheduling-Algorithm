@@ -12,9 +12,21 @@ An implementation of various CPU scheduling algorithms in C++. The algorithms in
     - [Feedback (FB)](#feedback-fb) (In progress)
     - [Feedback with varying time quantum (FBV)](#feedback-with-varying-time-quantum-fbv) (In progress)
     - [Aging](#aging) (In progress)
-  - [Installation](#installation)
-  - [Input Format](#input-format)
-  - [Contributors](#contributors)
+- [Page-Replacement-Algorithms](#page-replacement-algorithms)
+  - [Algorithms](#page-replacement-algorithms)
+    - [First Come First Serve (FCFS)](#first-come-first-serve-fcfs1)
+    - [Latest Recently Use (LRU)](#latest-recently-use-lru)
+    - [Most Recently Used (MRU)](#most-recently-used-mru)
+ - [Disk Accesing Algoritm](#disk-accesing-algorithms)
+  - [Algorithms](#disk-accesing-algorithms)
+    - [First In First Out (FIFO)](#first-in-first-out-fifo)
+    - [Shortest Seek Time First (SSTF)](#shortest-seek-time-first-sstf)
+    - [Scan Algorithm](#scan-algorithm)
+    - [Look Algorithm](#look-algorithm)
+- [Installation](#installation)
+- [Input Format](#input-format)
+- [Contributors](#contributors)
+    
 
 ## Algorithms
 
